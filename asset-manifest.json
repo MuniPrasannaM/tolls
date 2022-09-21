@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tolls/static/css/main.7f5738e6.css",
+    "main.js": "/tolls/static/js/main.a8b99794.js",
+    "index.html": "/tolls/index.html",
+    "main.7f5738e6.css.map": "/tolls/static/css/main.7f5738e6.css.map",
+    "main.a8b99794.js.map": "/tolls/static/js/main.a8b99794.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f5738e6.css",
+    "static/js/main.a8b99794.js"
+  ]
+}
