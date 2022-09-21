@@ -1,0 +1,53 @@
+{
+    "headers":[
+        "VEHICLE TYPE",
+        "VEHICLE NUMBER",
+        "DATE TIME",
+        "TOLL NAME",
+        "TRAFFIC"
+    ],
+    "data":[
+        {
+            "VEHICLE TYPE":"Car/Jeep/Van",
+            "VEHICLE NUMBER":"TN87T5667",
+            "DATE TIME":"2022-02-29 17:16:89",
+            "TOLL NAME":"ChengalPattu",
+            "TRAFFIC":"3456"
+        },
+        {
+            "VEHICLE TYPE":"Car/Jeep/Van",
+            "VEHICLE NUMBER":"TN87T5665",
+            "DATE TIME":"2022-02-29 17:16:89",
+            "TOLL NAME":"Chennai",
+            "TRAFFIC":"3453"
+        },
+        {
+            "VEHICLE TYPE":"Heavy Vehicles",
+            "VEHICLE NUMBER":"TN87T5437",
+            "DATE TIME":"2022-02-30 17:16:89",
+            "TOLL NAME":"Andhra",
+            "TRAFFIC":"16"
+        },
+        {
+            "VEHICLE TYPE":"Heavy Vehicles",
+            "VEHICLE NUMBER":"TN87T5437",
+            "DATE TIME":"2022-02-30 17:16:89",
+            "TOLL NAME":"Andhra",
+            "TRAFFIC":"16"
+        },
+        {
+            "VEHICLE TYPE":"Car/Jeep/Van",
+            "VEHICLE NUMBER":"HR87T5665",
+            "DATE TIME":"2022-02-29 17:16:89",
+            "TOLL NAME":"Chennai",
+            "TRAFFIC":"3453"
+        },
+        {
+            "VEHICLE TYPE":"Car/Jeep/Van",
+            "VEHICLE NUMBER":"AP87T5667",
+            "DATE TIME":"2022-02-29 17:16:89",
+            "TOLL NAME":"ChengalPattu",
+            "TRAFFIC":"3456"
+        }
+    ]
+}
